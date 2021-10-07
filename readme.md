@@ -30,6 +30,6 @@ If you're done, you can try to expand the project on your own. Here are a few su
 
 #### Practice web scraping
 
-Go to Further_questions file to answer some more questions.
+Go to [Further_questions](https://github.com/Ironhack-Data-0621-Remote/lab-web-scraping-multipages/blob/main/02_Further_questions.ipynb) file to answer some more questions.
 
 
