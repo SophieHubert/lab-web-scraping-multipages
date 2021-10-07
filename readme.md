@@ -18,9 +18,7 @@
 
 #### Prioritize the MVP
 
-In the previous lab, you had to scrape data about "hot songs". It's critical to be on track with that part, as it was part of the request from the CTO.
-
-If you couldn't finish the first lab, use this time to go back there.
+In the first notebook, you have to scrape data about "hot songs". It's critical to be on track with that part, as it was part of the request from the CTO.
 
 #### Expand the project
 
