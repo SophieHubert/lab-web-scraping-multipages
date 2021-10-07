@@ -18,7 +18,7 @@
 
 #### Prioritize the MVP
 
-In the first notebook, you have to scrape data about "hot songs". It's critical to be on track with that part, as it was part of the request from the CTO.
+In the [first notebook](https://github.com/Ironhack-Data-0621-Remote/lab-web-scraping-multipages/blob/main/01_Billboard.ipynb), you have to scrape data about "hot songs". It's critical to be on track with that part, as it was part of the request from the CTO.
 
 #### Expand the project
 
