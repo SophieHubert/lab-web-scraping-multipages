@@ -2,7 +2,7 @@
 
 # Lab | Web Scraping Multiple Pages
 
-#### Business goal:
+### Business goal:
 
 - Check the `case_study_gnod.md` file.
 - Make sure you've understood the big picture of your project:
@@ -14,7 +14,7 @@
 
   Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello (or git-hub project) board with the tasks you think you'll have to accomplish.
 
-#### Instructions 
+### Instructions 
 
 #### Prioritize the MVP
 
@@ -32,14 +32,6 @@ If you're done, you can try to expand the project on your own. Here are a few su
 
 #### Practice web scraping
 
-As you've seen, scraping the internet is a skill that can get you all sorts of information. Here are some little challenges to gain more experience in the field:
-
-- Retrieve an arbitrary Wikipedia page of "Python" and create a list of links on that page: `url ='https://en.wikipedia.org/wiki/Python'`
-- Find the number of titles that have changed in the United States Code since its last release point: `url = 'http://uscode.house.gov/download/download.shtml'`
-- Create a Python list with the top ten FBI's Most Wanted names: `url = 'https://www.fbi.gov/wanted/topten'`
-- Display the 20 latest earthquakes info (date, time, latitude, longitude and region name) by the EMSC as a pandas dataframe: `url = 'https://www.emsc-csem.org/Earthquake/'`
-- List all language names and number of related articles in the order they appear in [wikipedia.org](wikipedia.org): `url = 'https://www.wikipedia.org/'`
-- A list with the different kind of datasets available in [data.gov.uk](data.gov.uk): `url = 'https://data.gov.uk/'`
-- Display the top 10 languages by number of native speakers stored in a pandas dataframe: `url = 'https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers'`
+Go to Further_questions file to answer some more questions.
 
 
