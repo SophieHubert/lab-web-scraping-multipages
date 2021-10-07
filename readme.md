@@ -12,7 +12,7 @@
   - their strategy, and
   - how your project fits into this context.
 
-  Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
+  Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello (or git-hub project) board with the tasks you think you'll have to accomplish.
 
 #### Instructions 
 
@@ -32,7 +32,7 @@ If you're done, you can try to expand the project on your own. Here are a few su
 
 #### Practice web scraping
 
-As you've seen, scraping the internet is a skill that can get you all sorts of information. Here are some little challenges that you can try to gain more experience in the field:
+As you've seen, scraping the internet is a skill that can get you all sorts of information. Here are some little challenges to gain more experience in the field:
 
 - Retrieve an arbitrary Wikipedia page of "Python" and create a list of links on that page: `url ='https://en.wikipedia.org/wiki/Python'`
 - Find the number of titles that have changed in the United States Code since its last release point: `url = 'http://uscode.house.gov/download/download.shtml'`
